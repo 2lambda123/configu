@@ -1,0 +1,1253 @@
+repo_name: 2lambda123/configu
+report_id: 78ee7a832adf72e6a10d25683a9ef3d5
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:58:58+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: main
+detected_tools_count: 93
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/hello-world/index.cs
+  detection_source: examples/hello-world/index.cs
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: JSON
+  description: A lightweight data-interchange format
+  website_url: http://www.json.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-12-16 02:49:08.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/vscode/package.json
+  detection_source: ts/packages/vscode/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-12-19 23:42:02.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 18.15.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/.nvmrc
+  detection_source: Repo Metadata
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-03-13 17:49:44.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:50:17.000000000 Z
+- name: TypeORM
+  description: An ORM that can run in NodeJS and others
+  website_url: https://typeorm.io/
+  version: 0.3.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7419/20165699.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: MSSQL
+  description: It is an enterprise-level database system that is very popular for
+    Windows web servers
+  website_url: https://www.microsoft.com/en-us/sql-server
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/node/package.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.18.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/node/package.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/node/package.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/js-sdk/package.json
+  detection_source: examples/js-sdk/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-02-08 15:35:20.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/.eslintrc
+  detection_source: ts/.eslintrc
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/.github/workflows/cd-cli.yml
+  detection_source: ".github/workflows/cd-cli.yml"
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-06-15 15:27:56.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/vscode/package.json
+  detection_source: ts/packages/vscode/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-12-19 23:42:02.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/node/package.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/vscode/package.json
+  detection_source: ts/packages/vscode/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-12-19 23:42:02.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/browser/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/configu
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/browser/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-06-05 13:12:21.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/packages/cli/package.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: "@oclif/test"
+  description: Test helpers for oclif components
+  package_url: https://www.npmjs.com/@oclif/test
+  version: 2.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17312/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-20 16:13:42.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:50:17.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:50:17.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/vscode/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 13:21:46.000000000 Z
+- name: "@types/inquirer"
+  description: TypeScript definitions for inquirer
+  package_url: https://www.npmjs.com/@types/inquirer
+  version: 8.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16530/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: "@types/js-yaml"
+  description: TypeScript definitions for js-yaml
+  package_url: https://www.npmjs.com/@types/js-yaml
+  version: 4.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16757/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/lib/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.198
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/browser/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: "@types/validator"
+  description: TypeScript definitions for validator.js
+  package_url: https://www.npmjs.com/@types/validator
+  version: 13.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17698/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/lib/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.48.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.48.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.1440.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: change-case
+  description: Transform a string between `camelCase`
+  package_url: https://www.npmjs.com/change-case
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16612/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 8.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: cosmiconfig
+  description: Find and load configuration from a package.json property
+  package_url: https://www.npmjs.com/cosmiconfig
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17133/default_aae1698f13b22e457dce8faa3612b71379cf7a48.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Richard Akman
+  last_updated_on: 2023-09-07 11:33:44.000000000 Z
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 25.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: eslint-plugin-unicorn
+  description: Various awesome ESLint rules
+  package_url: https://www.npmjs.com/eslint-plugin-unicorn
+  version: 36.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16871/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: fast-glob
+  description: It's a very fast and efficient glob library for Node.js
+  package_url: https://www.npmjs.com/fast-glob
+  version: 3.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17033/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/vscode/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: globby
+  description: User-friendly glob matching
+  package_url: https://www.npmjs.com/globby
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  version: 1.3.8
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 8.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-12-16 16:51:25.000000000 Z
+- name: is-ci
+  description: Detect if the current environment is a CI server
+  package_url: https://www.npmjs.com/is-ci
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/lib/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 14.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: localforage
+  description: Offline storage, improved
+  package_url: https://www.npmjs.com/localforage
+  version: 1.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/browser/package.json
+  last_updated_by: Richard Akman
+  last_updated_on: 2022-11-16 16:51:20.000000000 Z
+- name: log-symbols
+  description: Colored symbols for various log levels
+  package_url: https://www.npmjs.com/log-symbols
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16742/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-03-13 17:49:44.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 8.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/packages/cli/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:50:17.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:50:17.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Richard Akman
+  last_updated_on: 2022-11-16 17:39:41.000000000 Z
+- name: shx
+  description: Portable Shell Commands for Node
+  package_url: https://www.npmjs.com/shx
+  version: 0.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2022-09-29 15:36:04.000000000 Z
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 5.1.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/node/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-04-24 12:35:58.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.4.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/examples/create-react-app/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.25.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-09-06 15:38:11.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  version: 13.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/ts/package-lock.json
+  detection_source: ts/packages/lib/package.json
+  last_updated_by: Ran Cohen
+  last_updated_on: 2023-08-19 13:16:51.000000000 Z
+- name: crypto
+  description: Go supplementary cryptography libraries
+  package_url: https://pkg.go.dev/golang.org/x/crypto
+  version: 0.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: exp
+  description: Experimental and deprecated packages
+  package_url: https://pkg.go.dev/golang.org/x/exp
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: locales
+  description: ":earth_americas: a set of locales generated from the CLDR Project
+    which can be used independently or within an i18n package; these were built for
+    use with"
+  package_url: https://pkg.go.dev/github.com/go-playground/locales
+  version: 0.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: mimetype
+  description: A golang library for detecting the MIME type and file extension
+  package_url: https://pkg.go.dev/github.com/gabriel-vasile/mimetype
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: text
+  description: Go text processing support
+  package_url: https://pkg.go.dev/golang.org/x/text
+  version: 0.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: universal-translator
+  description: ":speech_balloon: i18n Translator for Go/Golang using CLDR data + pluralization
+    rules"
+  package_url: https://pkg.go.dev/github.com/go-playground/universal-translator
+  version: 0.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/go/go.sum
+  detection_source: go/go.mod
+  last_updated_by: jamesL92
+  last_updated_on: 2023-08-15 17:46:06.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  version: 1.28.31
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/py/poetry.lock
+  detection_source: py/pyproject.toml
+  last_updated_by: jamesL92
+  last_updated_on: 2023-06-26 06:35:28.000000000 Z
+- name: kubernetes
+  description: Kubernetes python client
+  package_url: https://pypi.org/project/kubernetes
+  version: 26.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20025/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/py/poetry.lock
+  detection_source: py/pyproject.toml
+  last_updated_by: jamesL92
+  last_updated_on: 2023-07-06 08:22:47.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/2lambda123/configu/blob/main/py/poetry.lock
+  detection_source: py/pyproject.toml
+  last_updated_by: Shriekin’ Ninja
+  last_updated_on: 2023-03-30 15:58:39.000000000 Z
