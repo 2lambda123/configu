@@ -1,5 +1,5 @@
 export type CiCd =
-  | 'GitHubActions'
+  | 'GitHub Actions'
   | 'CircleCI'
   | 'GitLabCICD'
   | 'AzurePipelines'
