@@ -16,7 +16,7 @@ export const CI_CD_LABEL: Record<CiCd, string> = {
   BitbucketPipelines: 'Bitbucket Pipelines',
   TeamCity: 'TeamCity',
   Buddy: 'Buddy',
-  Jenkins: 'Jenkins',
+  Jenkins: 'Jenkins CI',
 };
 export const CI_CD_WEBSITE: Record<CiCd, string> = {
   GitHubActions: 'https://github.com/features/actions',
