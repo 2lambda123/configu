@@ -6,11 +6,11 @@ export type CiCd =
   | 'BitbucketPipelines'
   | 'TeamCity'
   | 'Buddy'
-  | 'Jenkins';
+  | 'Jenkins CI';
 
 export const CI_CD_LABEL: Record<CiCd, string> = {
   GitHubActions: 'GitHub Actions',
-  CircleCI: 'Circle CI',
+  CircleCI: 'CircleCI',
   GitLabCICD: 'GitLab CI/CD',
   AzurePipelines: 'Azure DevOps Pipelines',
   BitbucketPipelines: 'Bitbucket Pipelines',
