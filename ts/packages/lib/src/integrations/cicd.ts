@@ -6,7 +6,7 @@ export type CiCd =
   | 'BitbucketPipelines'
   | 'TeamCity'
   | 'Buddy'
-  | 'Jenkins CI';
+  | 'Jenkins CI // https://www.jenkins.io';
 
 export const CI_CD_LABEL: Record<CiCd, string> = {
   GitHubActions: 'GitHub Actions',
