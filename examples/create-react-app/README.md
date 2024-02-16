@@ -25,7 +25,7 @@ Consider a web application that uses multiple configurations to display differen
 
 ### [GitHub Actions](../../.github/workflows/cd-cra.yml)
 
-<!-- TODO: finish explaining about this -->
+GitHub Actions workflow for continuous deployment is configured to deploy the application automatically on every push to the main branch. Refer to [.github/workflows/cd-cra.yml](../../.github/workflows/cd-cra.yml) for the workflow definition.
 
 ---
 ---
