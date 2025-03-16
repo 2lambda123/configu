@@ -37,7 +37,7 @@
   "dependencies": {
     "@aws-sdk/client-secrets-manager": "^3.395.0",
     "@aws-sdk/client-ssm": "^3.395.0",
-    "@azure/identity": "^3.3.0",
+    "@azure/identity": "^4.2.1",
     "@azure/keyvault-secrets": "^4.7.0",
     "@configu/ts": "*",
     "@google-cloud/secret-manager": "^5.0.0",
